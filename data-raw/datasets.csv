@@ -1,0 +1,5 @@
+id,desc,url
+mrode_gblup,A simple dataset of traits and genotypes for GBLUP from Mrode (2014),https://www.dropbox.com/s/xy7pgbmpyp6az04/mrode_gblup.rds
+ssal_caligus,Dataset from Atlantic salmon challenge with Caligus from Robledo (2019),https://www.dropbox.com/s/bxxsszlmlhmafsx/ssal_caligus.rds
+otsh_color_gwas,Dataset from GWAS for flesh color in Chinook salmon from Lehnert (2019),https://www.dropbox.com/s/nyqp9z6r9qug89l/otsh_color_gwas.rds
+sim_gwas_basic,Simulated dataset of single quantitative trait with large QTL,https://www.dropbox.com/s/z7wi1lgb4tenvzu/sim_gwas_basic.rds
