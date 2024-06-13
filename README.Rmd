@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# {gsaqua}
+
+A data package for testing genomic selection workflows for aquaculture
+
+## Basic usage
+
+```{r}
+library(gsaqua)
+
+list_datasets()
+```
+
+```{r}
+
+mrode <- get_dataset("mrode_gblup")
+
+mrode
+```
